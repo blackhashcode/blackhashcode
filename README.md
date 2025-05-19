@@ -1,14 +1,12 @@
 Hi 👋 My name is Mushy
 ======================
 
-AI & Software Development
+SWE & MLDevOps
 -------------------------
 
-"Hair slicked backwards with a skin, fade taper"
+"L4P"
 
-* 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [tausifmushtaque@gmail.com](mailto:tausifmushtaque@gmail.com)
-* 🤝  I'm open to collaborating on Cyber Security Based projects, Machine Learning and Software testing.
 
 ### Skills
 
