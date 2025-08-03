@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tausifmushtaque@gmail.com**
 
-- ⚡ Fun fact **Im a narcissist**
+- ⚡ Fun fact **you have no idea how much i love exploring music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
