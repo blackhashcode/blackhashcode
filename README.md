@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackhashcode&label=Profile%20views&color=0e75b6&style=flat" alt="blackhashcode" /> </p>
 
-- 🌱 I’m currently learning **Docker, CI/CD pipeline**
-
 - 📫 How to reach me **tausifmushtaque@gmail.com**
-
-- ⚡ Fun fact **you have no idea how much i love exploring music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
